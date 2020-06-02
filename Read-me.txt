@@ -1,0 +1,46 @@
+<h1>pitéuDaBanda</h1>
+
+#pitéuDaBanda é uma aplicação web, open-source para divulgar a gastronomia angolana, dando a conhecer aos angolanos e a estrangeiro a gastronomia angolana,
+disponibilizando assim uma vasta coleção de pratos típicos e nativos de angola.
+
+Além de coleções pré-feitas, vais poder ter sugestões de acompanhantes para certos pratos.
+Podendo imformar 3 ingredientes e a aplicação de mostra os pratos que podem ser confeccionados.
+
+
+#Features
+Na aplicação está disponivel coleções de pratos para todos os gostos.
+-Ilustrações
+-Ingredientes
+-Como preparar
+-Duração
+-Origem
+-E onde é comum o consumo do mesmo.
+-Busca de pratos.
+- Sujestões de acompanhantes.
+
+
+#Como contribuir??
+pitéuDaBanda é uma aplicação sem fins lucrativos.
+
+Podes contribuir como desenvolvedor ou como usuário.
+
+#Desenvolvedor
+Para contribuires como dev. siga a instruções.
+1º- Precisarás ter o react instalado na máquina.
+
+2º- Instalar as dependências com o camando.
+
+``bash
+npm install
+
+3º Iniciar a aplicação
+
+``bash
+npm start
+
+#Usuário
+Basta ires até o rodapé da página.
+Clicar em contribuir e preencher o formulário.
+
+
+
